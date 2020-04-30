@@ -13,4 +13,3 @@ while target > lpf:
         # Adds one to the factor otherwise to then check        
         lpf += 1
 print(lpf)
-# Answer: 6857

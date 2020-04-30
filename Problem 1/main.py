@@ -9,4 +9,3 @@ for factor in range(1000):
         # Will add the total to the factor
         total += factor
 print(total)
-# Answer = 233168

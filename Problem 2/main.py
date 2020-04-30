@@ -17,4 +17,3 @@ while True:
     else:
         break
 print(total)
-# Answer = 4613732
